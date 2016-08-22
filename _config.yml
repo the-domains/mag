@@ -19,5 +19,8 @@ navigation:
   - name: 'Issue #2'
     id: 0c98ff8e-9d4c-48e9-9ac6-76d618d62276
     type: content
+  - name: 'Issue #3'
+    id: d0da3974-800b-4f96-b54c-b808c6e4670e
+    type: content
 title: Lineatura Magazine
 description: Portraying the worlds between the lines
