@@ -12,9 +12,5 @@ color:
     - '#FFFFFF'
 layout_spectrum: 0.04855092871002853
 name: LINEATURA-MAG
-navigation:
-  - name: 'Issue #3'
-    id: d0da3974-800b-4f96-b54c-b808c6e4670e
-    type: content
 title: Lineatura Magazine
 description: Portraying the worlds between the lines
