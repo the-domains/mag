@@ -1,16 +1,16 @@
-typography_spectrum: 0.2842091761995107
+layout_spectrum: 0.9346738934982568
+typography_spectrum: 0.10020986315794289
 color:
-  brandStrength: 0.04824375547468662
-  lightness: 0.7197695272043347
-  saturation: 0.23341825231909752
-  rhythmicContrast: 0.6469697796273977
+  brandStrength: 0.9822140114847571
+  lightness: 0.3156521876808256
+  saturation: 0.31911829323507845
+  rhythmicContrast: 0.5870623709633946
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.04855092871002853
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: LINEATURA-MAG
 navigation:
   - name: 'Issue #1'
