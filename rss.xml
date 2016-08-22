@@ -4,21 +4,21 @@
         <description><![CDATA[Lineatura Magazine]]></description>
         <link>https://thegrid.ai/mag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 16:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 16:09:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Issue #2]]></title>
+            <description><![CDATA[<article><h1>Issue #2</h1><p>NP</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2372f9cb-650e-4e39-9cab-6ab0fad1be66.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mag/issue-2/index.html</link>
+            <guid isPermaLink="false">0c98ff8e-9d4c-48e9-9ac6-76d618d62276</guid>
+            <pubDate>Mon, 22 Aug 2016 16:09:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Issue #3]]></title>
             <description><![CDATA[<article><h1>Issue #3</h1><p>FB</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a3b5a82-d30f-4034-8005-7a869fc96663.jpg"></article>]]></description>
             <link>https://thegrid.ai/mag/issue-3/index.html</link>
             <guid isPermaLink="false">d0da3974-800b-4f96-b54c-b808c6e4670e</guid>
             <pubDate>Mon, 22 Aug 2016 16:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Issue #2]]></title>
-            <description><![CDATA[<article><h1>Issue #2</h1><p>NP</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2372f9cb-650e-4e39-9cab-6ab0fad1be66.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mag/issue-2/index.html</link>
-            <guid isPermaLink="false">0c98ff8e-9d4c-48e9-9ac6-76d618d62276</guid>
-            <pubDate>Mon, 22 Aug 2016 16:07:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Issue #1]]></title>
