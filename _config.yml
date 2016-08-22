@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.04855092871002853
 name: LINEATURA-MAG
 navigation:
-  - name: 'Issue #2'
-    id: 0c98ff8e-9d4c-48e9-9ac6-76d618d62276
-    type: content
   - name: 'Issue #3'
     id: d0da3974-800b-4f96-b54c-b808c6e4670e
     type: content
