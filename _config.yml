@@ -12,5 +12,9 @@ color:
     - '#FFFFFF'
 layout_spectrum: 0.04855092871002853
 name: mag
+navigation:
+  - name: 'Issue #1'
+    id: c613742d-d893-48c1-9fd9-15e2ccb70d90
+    type: content
 title: Lineatura Magazine
 description: Portraying the worlds between the lines
