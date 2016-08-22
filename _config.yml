@@ -1,4 +1,3 @@
-layout_spectrum: 0.04855092871002853
 typography_spectrum: 0.2842091761995107
 color:
   brandStrength: 0.04824375547468662
@@ -6,9 +5,16 @@ color:
   saturation: 0.23341825231909752
   rhythmicContrast: 0.6469697796273977
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+layout_spectrum: 0.04855092871002853
 name: mag
+navigation:
+  - name: 'Issue #1'
+    id: 699c1186-a44f-4a44-b28e-4abd71755cf8
+    type: content
+title: Lineatura Magazine
+description: Portraying the worlds between the lines
