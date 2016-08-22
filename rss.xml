@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lineatura Magazine]]></title>
+        <description><![CDATA[Lineatura Magazine]]></description>
+        <link>https://thegrid.ai/mag/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 16:07:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mag/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Issue #1]]></title>
+            <description><![CDATA[<article><h1>Issue #1</h1><p>BB</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9cf8555-68e2-4e1f-a2cf-74dc4ff552fa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mag/issue-1/index.html</link>
+            <guid isPermaLink="false">699c1186-a44f-4a44-b28e-4abd71755cf8</guid>
+            <pubDate>Mon, 22 Aug 2016 16:07:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
