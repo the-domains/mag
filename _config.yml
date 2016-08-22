@@ -11,8 +11,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 layout_spectrum: 0.04855092871002853
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/624c85f7-6b75-42dc-98e6-29f7338df521.jpg
+logo: null
 name: LINEATURA-MAG
 navigation:
   - name: 'Issue #1'
